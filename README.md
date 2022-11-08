@@ -20,3 +20,6 @@ A *network* is a collection of network enabled devices like switches, routers, p
 ### Network Types
 They are categorized into one of the following network categories:
 1. __*Personal Area Network (PAN)*__: This provides networking needs around an individual. They typically use Bluetooth to communicate as it provides a low-power, short range data sharing capaility. Network starndards associated with PAN are Bluetooth and IEEE 802.15.
+2. __*Local Area Network (LAN)*__: It is the most commonly used classification of a network. It provides networking needs around a single location and is usually privately owned hence needing authentication and authorization to access.
+3. __*Metropolitant Area Network (MAN)*__: It provides networking capabilities between two different locations in a city/metropolitant area. Typically, it requires a dedicated and secure connection between each LAN joined to the MAN.
+4. __*Wide Area Network (WAN)*__: Provides networking capailities between two different geographical locations locally or worldwide. It links multiple LANs together to create one super network. You can use a virtual private cloud (VPN) to manage connection between different LANs.
