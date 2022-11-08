@@ -13,7 +13,7 @@
 10. __DMZ__: Demilitarized Zone is a subnetwork that contains and exposes a device to an untrusted network such as the internet
 Port Forwarding__: Redirects a communication request from one address and port number combination to another while the packets are travessing a network gateway such a router or firewall
 
-## FUNDAMENTALS OF COMPUTER NETWORK
+## Fundamentals of computer networking
 
 A *network* is a collection of network enabled devices like switches, routers, printers, computers and servers.
 
@@ -27,12 +27,12 @@ They are categorized into one of the following network categories:
 ### Network Topologies
 This describes the physical composition of a network.
 1. __*Bus Topology*__: Here each network device is connected to a single network cable. It is the simplest but limitations include;
-- Length of main cable or bus: the longer it takes, the higher the chance of signal dropout.
-- All deviices have to be located near each other.
-- Breakage of the bus cable causes failure of the whole network.
+-    Length of main cable or bus: the longer it takes, the higher the chance of signal dropout.
+-    All deviices have to be located near each other.
+-    Breakage of the bus cable causes failure of the whole network.
 2. __*Ring Topology*__: Each network is connected to its neighbor to form a ring. Breakage in the cable ring also affects the performance of the network.
 3. __*Mesh Topology*__: It can either be a physical or a logical mesh.
-- *Physical Mesh:* Each network device connects to every other network device in the network.
+-   *Physical Mesh:* Each network device connects to every other network device in the network.
 This increases resilience of a network but has physical overhead of connecting all devices. Few networks today are built as a *full mesh* but most use *partial mesh.* where some machines interconnect but others interconnect through one device.
--  *Logical Mesh:* The perception here is most modern networks are mesh ased since each device can communicate with any device on the ntwork. It is primarily made possible thriough use of network protocols.
+-   *Logical Mesh:* The perception here is most modern networks are mesh ased since each device can communicate with any device on the ntwork. It is primarily made possible thriough use of network protocols.
 4. __*Star Topology*__: It is the most commonly used network topology. Each network connects with the help of a centralized hub or switch. The hub and switches can be linked together to extend and build more extensive networks. It is by far the most robust and scalable.
