@@ -39,11 +39,11 @@ This increases resilience of a network but has physical overhead of connecting a
 
 ### Ethernet
 
-It is networking starndard that's synonymus with wire-based LAN networks, and can also e used in MAN and WAN networks.
-Ethernet strandard defines a framework of error handling, data transmission and perfor mance handling. It describes how each element in the network interacts.
+It is networking starndard that's synonymus with wire-based LAN networks, and can also be used in MAN and WAN networks.
+Ethernet strandard defines a framework of error handling, data transmission and performance handling. It describes how each element in the network interacts.
 Ethernet formed basis for IEEE 802.3 Standard which helped unify network and hardware development.
 Some of the ethernet networks are:
-1. __*Fast Ethernet:*__ This was developed to support data transmission of upto 100Mbps. It is also reffered to as the 100BASE-TX standard.
-2. __*Gigabit Ethernet (IEEE 802.3ab):*__ It was developed to support faster communication networks that can support services like streaming media. The 1000BASE-T starndard runs 10 times faster than 100BASE-TX standard.
-3. __*10 Gigabit Ethernet (IEEE 802.3ae):*__ It has a data transfer speed of 10 Gbps, which is 10 times faster than Gigabit Ethernet which was made possible only by using fiber optics. 
-4. __*Terabit Ethernet:*__ It offers transfer speed of 200 Gbps and 400 Gbps.
+1. __Fast Ethernet:__ This was developed to support data transmission of upto 100Mbps. It is also reffered to as the 100BASE-TX standard.
+2. __Gigabit Ethernet (IEEE 802.3ab):__ It was developed to support faster communication networks that can support services like streaming media. The 1000BASE-T starndard runs 10 times faster than 100BASE-TX standard.
+3. __10 Gigabit Ethernet (IEEE 802.3ae):__ It has a data transfer speed of 10 Gbps, which is 10 times faster than Gigabit Ethernet which was made possible only by using fiber optics. 
+4. __Terabit Ethernet:__ It offers transfer speed of 200 Gbps and 400 Gbps.
