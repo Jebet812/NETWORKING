@@ -36,3 +36,14 @@ This describes the physical composition of a network.
 This increases resilience of a network but has physical overhead of connecting all devices. Few networks today are built as a *full mesh* but most use *partial mesh.* where some machines interconnect but others interconnect through one device.
 -   *Logical Mesh:* The perception here is most modern networks are mesh ased since each device can communicate with any device on the ntwork. It is primarily made possible thriough use of network protocols.
 4. __*Star Topology*__: It is the most commonly used network topology. Each network connects with the help of a centralized hub or switch. The hub and switches can be linked together to extend and build more extensive networks. It is by far the most robust and scalable.
+
+### Ethernet
+
+It is networking starndard that's synonymus with wire-based LAN networks, and can also e used in MAN and WAN networks.
+Ethernet strandard defines a framework of error handling, data transmission and perfor mance handling. It describes how each element in the network interacts.
+Ethernet formed basis for IEEE 802.3 Standard which helped unify network and hardware development.
+Some of the ethernet networks are:
+1. __*Fast Ethernet:*__ This was developed to support data transmission of upto 100Mbps. It is also reffered to as the 100BASE-TX standard.
+2. __*Gigabit Ethernet (IEEE 802.3ab):*__ It was developed to support faster communication networks that can support services like streaming media. The 1000BASE-T starndard runs 10 times faster than 100BASE-TX standard.
+3. __*10 Gigabit Ethernet (IEEE 802.3ae):*__ It has a data transfer speed of 10 Gbps, which is 10 times faster than Gigabit Ethernet which was made possible only by using fiber optics. 
+4. __*Terabit Ethernet:*__ It offers transfer speed of 200 Gbps and 400 Gbps.
