@@ -19,4 +19,4 @@ A *network* is a collection of network enabled devices like switches, routers, p
 
 ### Network Types
 They are categorized into one of the following network categories:
-a) __*Personal Area Network (PAN)__: This provides networking needs around an individual. They typically use Bluetooth to communicate as it provides a low-power, short range data sharing capaility. Network starndards associated with PAN are Bluetooth and IEEE 802.15.
+a) __*Personal Area Network (PAN)*__: This provides networking needs around an individual. They typically use Bluetooth to communicate as it provides a low-power, short range data sharing capaility. Network starndards associated with PAN are Bluetooth and IEEE 802.15.
