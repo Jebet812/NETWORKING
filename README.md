@@ -23,3 +23,10 @@ They are categorized into one of the following network categories:
 2. __*Local Area Network (LAN)*__: It is the most commonly used classification of a network. It provides networking needs around a single location and is usually privately owned hence needing authentication and authorization to access.
 3. __*Metropolitant Area Network (MAN)*__: It provides networking capabilities between two different locations in a city/metropolitant area. Typically, it requires a dedicated and secure connection between each LAN joined to the MAN.
 4. __*Wide Area Network (WAN)*__: Provides networking capailities between two different geographical locations locally or worldwide. It links multiple LANs together to create one super network. You can use a virtual private cloud (VPN) to manage connection between different LANs.
+
+### Network Topologies
+This describes the physical composition of a network.
+1. __*Bus Topology*__: Here each network device is connected to a single network cable. It is the simplest but limitations include;
+- Length of main cable or bus: the longer it takes, the higher the chance of signal dropout.
+- All deviices have to be located near each other.
+Breakage of the bus cable causes failure of the whole network.
