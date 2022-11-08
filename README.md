@@ -13,3 +13,10 @@
 10. __DMZ__: Demilitarized Zone is a subnetwork that contains and exposes a device to an untrusted network such as the internet
 Port Forwarding__: Redirects a communication request from one address and port number combination to another while the packets are travessing a network gateway such a router or firewall
 
+## FUNDAMENTALS OF COMPUTER NETWORK
+
+A *network* is a collection of network enabled devices like switches, routers, printers, computers and servers.
+
+### Network Types
+They are categorized into one of the following network categories:
+a) __*Personal Area Network (PAN)__: This provides networking needs around an individual. They typically use Bluetooth to communicate as it provides a low-power, short range data sharing capaility. Network starndards associated with PAN are Bluetooth and IEEE 802.15.
