@@ -48,3 +48,8 @@ Some of the ethernet networks are:
 3. __10 Gigabit Ethernet (IEEE 802.3ae):__ It has a data transfer speed of 10 Gbps, which is 10 times faster than Gigabit Ethernet which was made possible only by using fiber optics. 
 4. __Terabit Ethernet:__ It offers transfer speed of 200 Gbps and 400 Gbps.
 
+## Network Standards
+Network Protocols provides a unified method of communication while Network Starndards govern the hardware and software that uses them. Network starndatd provide a framework that enables the interoperability between devices. It improves the interoperability of different network-enabled devices and provide backward compatiility between product revisions and different vendors.  
+__*The 802 Family of Starndards*__ Some of the widely used starndards are can be found on this page https://learn.microsoft.com/en-us/training/modules/network-fundamentals/3-network-infrastructure
+
+## Network Infrastructure
