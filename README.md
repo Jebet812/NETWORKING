@@ -54,5 +54,11 @@ __*The 802 Family of Starndards*__ Some of the widely used starndards are can be
 
 ## Network Infrastructure
 Network starndard-compliant devices makes up structure of a network and depending on network size you might use several devices to build the network's backbone. Examples are repeaters, hubs, switches, ridges, routers.
+
 __*Media Accesss Control (MAC)*__ address is a unique identifier assigned to very network enabled device at the time of manufacture which is used by nearly all devices to deliver data in the network. It sometimes is reffered tp as burned-in address, Ethernet hardware address or a physical addresss.
+
+### Repeater
+A two port device that repeats network signals without modifying or interpreting data packets before resending them and doesnt amplify the signal. It instead regeneratyes the data packet at the original strengrh bit-by-bit. It is useful for network devices that are some distance from each other.
+
+
 
