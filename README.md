@@ -61,7 +61,7 @@ __*Media Accesss Control (MAC)*__ address is a unique identifier assigned to ver
 A two port device that repeats network signals without modifying or interpreting data packets before resending them and doesnt amplify the signal. It instead regeneratyes the data packet at the original strengrh bit-by-bit. It is useful for network devices that are some distance from each other.
 
 ### Hub
-It acts as a multi-port repearter on a network. It is used to connect more than one device and structure the layout of the network. Hubs contain multiple  ports that act input/output Ethernet connection between network device and hub. It operates in speed of the slowest network device. It doesn't filter or interpret data packets and sends copies of each data packet to all attached devices.
+It acts as a multi-port repearter on a network. It is used to connect more than one device and structure the layout of the network. Hubs contain multiple  ports that act input/output Ethernet connection between network device and hub. It operates in speed of the slowest network device. It doesn't filter or interpret data packets and sends copies of each data packet to all attached devices. </br>
 __*Types of Hubs*__
 - __Fast Ethernet__:
 
