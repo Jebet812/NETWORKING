@@ -65,6 +65,9 @@ It acts as a multi-port repearter on a network. It is used to connect more than 
 
 __*Types of Hubs*__
 - __Fast Ethernet__: Used for 100Mbps networks and comes as Class I (intoduce a signal delay of upto 140-bit times) and Class II (has a delay of upto 96-bit times)
+- __Dual Ethernet__: In traditional hub network speed of network is governed by slowest working device attached hence dual speed hubs to solve the problem by acting as a bridge between the two different speed devices.
+
+### Bridge
 
 
 
