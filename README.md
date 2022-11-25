@@ -64,10 +64,16 @@ A two port device that repeats network signals without modifying or interpreting
 It acts as a multi-port repearter on a network. It is used to connect more than one device and structure the layout of the network. Hubs contain multiple  ports that act input/output Ethernet connection between network device and hub. It operates in speed of the slowest network device. It doesn't filter or interpret data packets and sends copies of each data packet to all attached devices. </br>
 
 __*Types of Hubs*__
-- __Fast Ethernet__: Used for 100Mbps networks and comes as Class I (intoduce a signal delay of upto 140-bit times) and Class II (has a delay of upto 96-bit times)
+- __Fast Ethernet__: Used for 100Mbps networks and comes as Class I (introduce a signal delay of upto 140-bit times) and Class II (has a delay of upto 96-bit times)
 - __Dual Ethernet__: In traditional hub network speed of network is governed by slowest working device attached hence dual speed hubs to solve the problem by acting as a bridge between the two different speed devices.
 
 ### Bridge
+It divides network to network segments. It is used to improve network performance by reducing unnecesary network segments. It can filter and forward data packets between the segments. To descide the data data packages destination, it uses the network device's MAC address.
+
+### Router
+They link networks with different ranged addresses together. It can filter and interpret data packets then forward them to the correct network. To route the data package to correct destination it uses network device's IP address information. It is also called a ***gateway.*** When configuring network device's usually configure them with gateway IP addresses.
+
+*Interconnectivity:* Routers in an interconnected network maintain a routing table that lists preffered route between each of the networks. A routing protocol like a Border Gateway Protocol (BCG) is used to share information between routers.
 
 
 
