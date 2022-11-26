@@ -69,8 +69,6 @@ __*Types of Hubs*__
 
 ### Bridge
 It divides network to network segments. It is used to improve network performance by reducing unnecesary network segments. It can filter and forward data packets between the segments. To descide the data data packages destination, it uses the network device's MAC address.
-### Router
-They link networks with different ranged addresses togheter. It can filter and interpret data packets then forward them to the correct network. To route the data package to correct destination it uses the network devices IP address information. 
 
 ### Router
 They link networks with different ranged addresses together. It can filter and interpret data packets then forward them to the correct network. To route the data package to correct destination it uses network device's IP address information. It is also called a ***gateway.*** When configuring network device's usually configure them with gateway IP addresses.
