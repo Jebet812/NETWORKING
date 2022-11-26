@@ -78,7 +78,8 @@ They link networks with different ranged addresses together. It can filter and i
 ***Types of Routers***
 - **Access Routers:** Used typically in a home or small satellite offices. They tend to be low cost devices with a simple routing need.
 - **Distribution Routers:**  The compile traffic routing data from multiple routers and come with more significant processing and memory power. Often used to manage and control the quality of service across a WAN and designed to hold vast quantities of routing information.
-- **Edge Routers:** 
+- **Edge Routers:** Oparates at the boundary between your network and other networks *e.g.* local network and the internet. It often conmes with access control and firewall to improve security. Based on packet heaader they act as a gateway to filter traffic and route it internally or forward it. It can handle DHCP server address.
+- **Core Routers:**
 
 
 
