@@ -75,5 +75,8 @@ They link networks with different ranged addresses together. It can filter and i
 
 *Interconnectivity:* Routers in an interconnected network maintain a routing table that lists preffered route between each of the networks. A routing protocol like a Border Gateway Protocol (BCG) is used to share information between routers.
 
+***Types of Routers***
+- **Access Routers** Used typically in a home or small satellite offices. They tend to be low cost devices with a simple routing need.
+- **Distribution Routers**  The compile traff
 
 
