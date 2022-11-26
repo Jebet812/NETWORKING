@@ -79,7 +79,7 @@ They link networks with different ranged addresses together. It can filter and i
 - **Access Routers:** Used typically in a home or small satellite offices. They tend to be low cost devices with a simple routing need.
 - **Distribution Routers:**  They compile traffic routing data from multiple routers and come with more significant processing and memory power. Often used to manage and control the quality of service across a WAN and designed to hold vast quantities of routing information.
 - **Edge Routers:** Oparates at the boundary between your network and other networks *e.g.* local network and the internet. It often conmes with access control and firewall to improve security. Based on packet heaader they act as a gateway to filter traffic and route it internally or forward it. It can handle DHCP server address.
-- **Core Routers:** Also called enterprise routers and are designed for higher bandwidths. Used to connect different buildings or geographical locations. They have fewer features than edge routers because feature is to prevent congestion and minimize packet loss. They tend to do packet forwarding to edge routers.
+- **Core Routers:** Also called ***enterprise routers*** and are designed for higher bandwidths. Used to connect different buildings or geographical locations. They have fewer features than edge routers because feature is to prevent congestion and minimize packet loss. They tend to do packet forwarding to edge routers.
 
 ***Wireless Routers*** provide all routing capabilities of a regukar access router but offers wireless access point function It is designed to provide non-wired connction to your network.
 
